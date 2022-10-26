@@ -46,3 +46,16 @@ namespace demo01integer
     }
 }
 ```
+# Conversiones de datos
+```
+// 1- Conversion Implicita
+int num = 12212;
+long numg = num;
+              
+
+// 2 - Conversion de tipo
+bool elSolBrilla = true;
+string miSolString = elSolBrilla.ToString();
+Console.WriteLine("Hola Mundo");
+Console.Read();
+```
