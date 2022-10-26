@@ -27,3 +27,22 @@ namespace demo01integer
 }
 ```
 
+# Cambiar color a la consola
+```
+using System;
+
+namespace demo01integer
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.Clear();
+            Console.WriteLine("Hola Mundo");
+            Console.Read();
+        }
+    }
+}
+```
