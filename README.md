@@ -1,4 +1,4 @@
-# trukos-cchar
+# Trukos cchar
 
 
 # Tipos de datos
