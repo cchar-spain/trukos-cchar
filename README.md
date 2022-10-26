@@ -6,7 +6,8 @@
 int edadClient = 13;
 double d1 = 3.5;
 float f1 = 2.5;
-string messageStop = "Es un demo"
+string messageStop = "Es un demo";
+bool elSolBrilla = true;
 ```
 
 # Hola Mundo
